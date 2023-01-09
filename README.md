@@ -1,16 +1,22 @@
-# xmarket
+# <h2>XMarket</h2>
 
-A new Flutter project.
+A shop application with Flutter.
 
-## Getting Started
+<h3>Used Tools:</h3>
+<ul>
+  <li>Get It (Dependency Injection)</li>
+  <li>Dio (Http Library)</li>
+  ...
+</ul>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<h3>Screen Shots:</h3>
+<div>
+  <img src="https://dev99.ir/xmarket_screenshots/1.jpg" width="324" height="666"/>
+  <img src="https://dev99.ir/xmarket_screenshots/2.jpg" width="324" height="666"/>
+  <img src="https://dev99.ir/xmarket_screenshots/3.jpg" width="324" height="666"/>
+  <img src="https://dev99.ir/xmarket_screenshots/4.jpg" width="324" height="666"/>
+  <img src="https://dev99.ir/xmarket_screenshots/5.jpg" width="324" height="666"/>
+  <img src="https://dev99.ir/xmarket_screenshots/6.jpg" width="324" height="666"/>
+</div>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
